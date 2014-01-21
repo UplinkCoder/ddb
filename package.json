@@ -7,5 +7,6 @@
 	"authors": ["Piotr Szturmaj"],
 	"dependencies": {
 		"vibe-d": {"version": "~master", "optional": true}
-	}
+	},
+	"targetType": "sourceLibrary"
 }
